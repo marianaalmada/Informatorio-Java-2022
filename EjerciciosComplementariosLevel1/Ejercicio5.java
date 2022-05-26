@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ejercicio5 {
     
     public static void main(String[] args) {
-        System.out.println("Ingrese un número");
+        System.out.println("Ingrese dos números");
 
         Scanner input = new Scanner(System.in);
         int num1 = input.nextInt();
