@@ -1,5 +1,7 @@
 package EjerciciosComplementariosLevel1;
 
+import java.util.Scanner;
+
 public class Ejercicio6 {
 
     public static void main(String[] args) {
@@ -11,6 +13,8 @@ public class Ejercicio6 {
         int exp = input.nextInt();
 
         System.out.println(multiplicacion(base, exp));
+
+        input.close();
     }
 
     public static int multiplicacion(int base, int exp) {
