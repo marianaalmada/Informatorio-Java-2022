@@ -9,7 +9,6 @@ public class Ejercicio5 {
         ArrayList<Integer> valorXHora = new ArrayList<>(List.of(350, 345, 550, 600, 320));
 
         calcularMontoTotal(horasTrabajadas, valorXHora);
-
     }
 
     public static void calcularMontoTotal(ArrayList<Integer> horas, ArrayList<Integer> valor) {
