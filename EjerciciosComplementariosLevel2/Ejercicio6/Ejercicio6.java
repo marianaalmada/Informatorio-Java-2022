@@ -1,4 +1,4 @@
-package Ejercicio6;
+package EjerciciosComplementariosLevel2.Ejercicio6;
 
 import java.util.HashMap;
 import java.util.HashSet;
